@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(226, 231, 216);
+    margin: 450px;
+}
+h1{
+    text-align:left;
+    text-align: justify;
+    margin-right: 400px;
+    margin-left: 100px;
+    font-size: x-large;
+    color: rgb(10, 29, 46);
+}
+img{
+
+    margin: 100px 100px 100px 100px;
+    clear:inherit;
+    float:inherit;
+}
+input{
+    display: block;
+    margin: 50px 50px 50px 50px;
+    clear:inherit;
+    float:inherit;
+}
+.gd{
+    display: inline;
+}
+button{
+    display: block;
+    margin: 50px 50px 50px 50px;
+}
